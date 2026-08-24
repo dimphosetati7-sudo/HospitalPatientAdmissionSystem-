@@ -1,0 +1,7 @@
+com\mycompany\hospitalpatientadmissionsystem\Bed.class
+com\mycompany\hospitalpatientadmissionsystem\HospitalSystem.class
+com\mycompany\hospitalpatientadmissionsystem\HospitalPatientAdmissionSystem.class
+com\mycompany\hospitalpatientadmissionsystem\Ward.class
+com\mycompany\hospitalpatientadmissionsystem\Inpatient.class
+com\mycompany\hospitalpatientadmissionsystem\Patient.class
+com\mycompany\hospitalpatientadmissionsystem\PatientCategory.class
